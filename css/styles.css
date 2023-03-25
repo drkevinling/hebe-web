@@ -1,10 +1,10 @@
+.first-paragraph{
+    font-size: 4rem;
+}
+
 .middle-bar{
     width: 200px;
     height: 200px;
     background-color: red;
     color: blue;
-}
-
-.first-paragraph{
-    font-size: 3rem;
 }
